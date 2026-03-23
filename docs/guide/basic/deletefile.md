@@ -1,8 +1,5 @@
 ---
 title: 删除文件
-author: AndyBin
-date: 2019-03-01
-isOriginal: true
 description: 用于记录如何删除文件
 ---
 

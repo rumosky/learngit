@@ -1,8 +1,5 @@
 ---
 title: 撤销修改
-author: AndyBin
-date: 2019-03-01
-isOriginal: true
 description: 用于记录如何撤销修改
 ---
 

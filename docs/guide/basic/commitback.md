@@ -1,8 +1,5 @@
 ---
 title: 版本回退
-author: AndyBin
-date: 2019-03-01
-isOriginal: true
 description: 用于记录如何进行版本回退
 ---
 

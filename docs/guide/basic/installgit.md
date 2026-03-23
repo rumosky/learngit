@@ -1,8 +1,5 @@
 ---
 title: 安装Git
-author: AndyBin
-date: 2019-03-01
-isOriginal: true
 description: 用于记录如何安装Git
 ---
 

@@ -1,8 +1,5 @@
 ---
 title: GitClone
-author: AndyBin
-date: 2019-03-01
-isOriginal: true
 description: This it the GitClone page of LearnGit
 ---
 

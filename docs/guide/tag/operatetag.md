@@ -1,8 +1,5 @@
 ---
 title: OperateTag
-author: AndyBin
-date: 2021-10-01
-isOriginal: true
 description: This it the OperateTag page of LearnGit
 ---
 

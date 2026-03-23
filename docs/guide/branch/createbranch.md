@@ -1,8 +1,5 @@
 ---
 title: 创建与合并分支
-author: AndyBin
-date: 2019-03-01
-isOriginal: true
 description: 用于记录如何创建与合并分支
 ---
 

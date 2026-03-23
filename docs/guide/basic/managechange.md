@@ -1,8 +1,5 @@
 ---
 title: 管理修改
-author: AndyBin
-date: 2021-10-01
-isOriginal: true
 description: 用于记录如何管理修改
 ---
 

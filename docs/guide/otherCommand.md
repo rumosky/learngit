@@ -1,8 +1,5 @@
 ---
 title: 其他命令
-author: AndyBin
-date: 2019-03-01
-isOriginal: true
 description: 用于记录不常用的其他Git命令
 ---
 

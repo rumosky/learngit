@@ -1,8 +1,5 @@
 ---
 title: 分支管理策略
-author: AndyBin
-date: 2019-03-01
-isOriginal: true
 description: 用于记录分支管理策略
 ---
 

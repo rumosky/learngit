@@ -1,8 +1,5 @@
 ---
 title: 速查词典
-author: AndyBin
-date: 2019-03-01
-isOriginal: true
 description: 用于快速查询Git常见命令
 ---
 

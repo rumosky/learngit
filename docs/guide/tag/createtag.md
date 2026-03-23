@@ -1,8 +1,5 @@
 ---
 title: GitTag
-author: AndyBin
-date: 2019-03-01
-isOriginal: true
 description: This it the GitTag page of LearnGit
 ---
 

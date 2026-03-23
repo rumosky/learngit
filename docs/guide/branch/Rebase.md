@@ -1,8 +1,5 @@
 ---
 title: Rebase变基
-author: AndyBin
-date: 2019-03-01
-isOriginal: true
 description: 用于记录何为变基
 ---
 

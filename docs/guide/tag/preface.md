@@ -1,8 +1,5 @@
 ---
 title: 标签管理
-author: AndyBin
-date: 2019-03-01
-isOriginal: true
 description: 用于记录标签管理主页说明内容
 ---
 

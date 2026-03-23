@@ -1,8 +1,5 @@
 ---
 title: 工作区与暂存区
-author: AndyBin
-date: 2019-03-01
-isOriginal: true
 description: 用于记录什么是工作区与暂存区
 ---
 
