@@ -163,39 +163,39 @@ function sidebarExtra() {
   return [
     {
       text: "git 的 merge 与 no-ff merge 的不同之处",
-      link: "1",
+      link: "/extra/1",
     },
     {
       text: "git报错fatal: refusing to merge unrelated histories",
-      link: "2",
+      link: "/extra/2",
     },
     {
       text: "git merge origin master与merge origin/master的区别",
-      link: "3",
+      link: "/extra/3",
     },
     {
       text: "Git撤回已经推送至远程仓库的提交",
-      link: "4",
+      link: "/extra/4",
     },
     {
       text: "浅析warning: LF will be replaced by CRLF",
-      link: "5",
+      link: "/extra/5",
     },
     {
       text: "git pull: Pulling in not possible because you have unmerged files",
-      link: "6",
+      link: "/extra/6",
     },
     {
       text: "Git基于远程仓库修改覆盖问题",
-      link: "7",
+      link: "/extra/7",
     },
     {
       text: "Git批量删除tag标签",
-      link: "8",
+      link: "/extra/8",
     },
     {
       text: "Git拉取远程仓库其他分支代码",
-      link: "9",
+      link: "/extra/9",
     },
   ];
 }
