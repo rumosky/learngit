@@ -3,9 +3,9 @@ title: 速查词典
 description: 用于快速查询Git常见命令
 ---
 
-### 速查表
+# 速查表
 
-> 创建
+## 创建
 
 1.克隆现有仓库
 
@@ -19,7 +19,7 @@ git clone ssh://user@domain.com/repo.git
 git init
 ```
 
-> **本地修改**
+## 本地修改
 
 1.查看工作目录中已更改的文件，即查看 git 状态
 
@@ -63,7 +63,7 @@ git commit
 git commit --amend
 ```
 
-> **提交历史**
+## 提交历史
 
 1.显示所有提交，从最新的提交开始
 
@@ -83,7 +83,7 @@ git log -p <file>
 git blame <file>
 ```
 
-> **分支和标签**
+## 分支和标签
 
 1.列出所有现有分支
 
@@ -121,7 +121,7 @@ git branch -d <branch>
 git tag <tag-name>
 ```
 
-> **更新和推送**
+## 更新和推送
 
 1.列出当前仓库关联的所有远程仓库
 
@@ -171,7 +171,7 @@ git branch -dr <remote/branch>
 git push --tags
 ```
 
-> **合并和变基**
+## 合并和变基
 
 1.合并指定分支到当前分支
 
@@ -211,7 +211,7 @@ git add <resolved-file>
 git rm <resolved-file>
 ```
 
-> **撤销**
+## 撤销
 
 1.放弃工作目录中的所有本地更改
 
@@ -251,7 +251,7 @@ git reset --keep <commit>
 
 ---
 
-#### 版本控制最佳做法
+# 版本控制最佳做法
 
 > **提交相关更改**
 
@@ -295,7 +295,7 @@ _本次修改代码的原因是什么？
 git help <command>
 ```
 
-> **免费在线资源**
+## 免费在线资源
 
 [https://www.git-scm.com/docs](https://www.git-scm.com/docs)
 
